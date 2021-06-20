@@ -1,0 +1,11 @@
+@charset "EUC-KR";
+
+#footer {width: 100%; background: gray; position : absolute; bottom : 0px; margin : 0 0 0 0 ;}
+.footerCont {margin: 0 auto; width: 1000px; font-size: 0; line-height: 0;}
+
+.footerCont .footer {height: 172px;}
+.footerCont .footer .logo_02{float: left; margin-top: 60px; margin-left: 20px;}
+.footerCont .footer .footerTxt { padding-top: 60px; text-align: center; margin-right: 40px;}
+
+.footerCont .footer .copyrightTxt {font-size: 12px; line-height: 18px; color: #ffffff;}
+.footerCont .footer .infoTxt {font-size: 11px; line-height: 16px; color: #333;}
